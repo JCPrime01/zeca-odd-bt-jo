@@ -24,6 +24,6 @@ export default async function handler(req, res) {
       return;
     }                                                                                                                                                                                      
                                                                                                                                                                                          
-    res.writeHead(302, { Location: 'https://go.aff.bateu.bet.br/2wo6uo64?shareCode=PCKK976MMDI&afp8=sb&home=1' });                                                                                                                          
+    res.writeHead(302, { Location: 'https://go.aff.bateu.bet.br/2wo6uo64?shareCode=QW6IV167RWG&afp8=sb&home=1' });                                                                                                                          
     res.end();                                                                                                                                                                           
   }
